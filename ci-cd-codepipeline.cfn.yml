@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: GoodMapa
+    Default: ThinkAllofYours
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
